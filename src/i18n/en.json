@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Me",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "language": "Language"
+  },
+  "home": {
+    "title1": "Hi, I'm",
+    "title2": "Cédric",
+    "title3": "Cheng 👋",
+    "subtitle": "Junior Developer",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title1": "About",
+    "title2": "me",
+    "content1": "I’m a curious and self-driven junior developer with strong adaptability skills. A graduate of EPITECH, I chose this program for its hands-on, project-based learning approach, which helped me build technical expertise, teamwork skills, and a problem-solving mindset.",
+    "content2": "My exchange year at Inha University in South Korea further broadened my perspective, enhancing my ability to thrive in international and fast-paced environments.",
+    "content3": "Beyond coding, I’m an avid gamer, a sports enthusiast (basketball and bouldering), and a cooking hobbyist."
+  },
+  "skills": {
+    "title1": "My",
+    "title2": "Skills",
+    "level1": "Beginner",
+    "level2": "Intermediate",
+    "level3": "Advanced"
+  },
+  "experience": {
+    "title": "Experience",
+    "content": "Worked on deep systems & fullstack projects"
+  },
+  "projects": {
+    "title1": "Featured",
+    "title2": "Projects",
+    "mm": "A tool to uncover hidden drop rates in MixMaster. When the GameMaster refused to reveal Hench monsters' drop rates, I found the formula and built this tool, giving players transparency and predictive simulations for their grind.",
+    "ellia": "A Discord bot for the mobile game Summoners War that lets players summon monsters and share their collections. I developed this bot to recreate the excitement of gacha pulls with friends, featuring higher drop rates than the original game and a system to save obtained monsters.",
+    "wizard": "Developed in just a few days during an Epitech project, this game prototype leverages Unreal's Blueprint system to create an immersive experience without writing a single line of code. A technical challenge completed in record time, demonstrating my ability to quickly master complex visual scripting tools.",
+    "schooladventure": "Education video game for kids (elementary level) with parental dashboard. Developed as a team project during my final year at Epitech, this game features 10+ mini-games that cover multiple subjects.",
+    "portfolio": "I took the opportunity of building this portfolio to improve my skills in two key technologies: React for the structure and Tailwind CSS for styling. This project allowed me to explore the efficiency of Utility-First CSS while strengthening my fundamentals in React components."
+  },
+  "menu": {
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "resume": {
+    "text": "Download CV",
+    "link": "https://drive.google.com/file/d/103u3vAOrTtu1oHwO7LES463L63yK6Uc3/view?usp=sharing"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "language": "Langue"
+  },
+  "home": {
+    "title1": "Salut, je suis",
+    "title2": "Cédric",
+    "title3": "Cheng 👋",
+    "subtitle": "Développeur Junior",
+    "scroll": "Faire défiler"
+  },
+  "about": {
+    "title1": "À",
+    "title2": "Propos",
+    "content1": "Je suis un jeune développeur curieux et autonome, avec une grande capacité d'adaptation. Diplômé d'EPITECH, j'ai choisi cette formation pour son approche pratique axée sur les projets, qui m'a permis de développer ma rigueur et mon esprit d'équipe tout en consolidant mes compétences techniques.",
+    "content2": "Mon année d'échange à Inha University en Corée du Sud a enrichi mon parcours, renforçant mon ouverture d'esprit et ma capacité à évoluer dans un environnement international.",
+    "content3": "En dehors du code, je suis un grand passionné de jeux vidéo, un sportif assidu (basketball et escalade), et un amateur de cuisine."
+  },
+  "skills": {
+    "title1": "Mes",
+    "title2": "Compétences",
+    "level1": "Débutant",
+    "level2": "Intermediaire",
+    "level3": "Avancé"
+  },
+  "experience": {
+    "title": "Expérience",
+    "content": "Travaillé sur des systèmes complexes & projets fullstack"
+  },
+  "projects": {
+    "title1": "Quelques",
+    "title2": "Projets",
+    "mm": "Outil pour le jeu MixMaster. Le GameMaster ne voulant pas dévoiler le taux de drop des Hench (nom des monstres), j'ai trouvé la formule et créé cet outil afin que la communauté puisse enfin connaître les taux et faire des simulations.",
+    "ellia": "Un simulateur d'invocations pour le jeu mobile Summoners War, permettant aux joueurs d'invoquer des monstres et de partager leur collection. J'ai développé ce bot Discord pour recréer l'excitation des tirages gacha entre amis, avec des taux supérieur au jeu et un système de sauvegarde des monstres obtenus.",
+    "wizard": "Développé en quelques jours lors d'un projet Epitech, ce prototype de jeux vidéo exploite la puissance des Blueprints pour créer une expérience immersive sans écrire une seule ligne de code. Un défi technique relevé en un temps recor, montrant ma capacité à maîtriser rapidement des outils.",
+    "schooladventure": "Jeu vidéo éducatif pour enfants (niveau primaire) avec dashboard parental. Développé en équipe lors de mon projet de fin d'études à Epitech, ce jeu combine une dizaine de mini-jeux couvrant différentes matières avec un système de suivi pour les parents.",
+    "portfolio": "J'ai profité de la création de ce portfolio pour monter en compétences sur deux technologies clés : React pour la structure et Tailwind CSS pour le styling. Ce projet m'a permis de découvrir l'efficacité du Utility-First CSS tout en consolidant mes bases en composants React."
+  },
+  "menu": {
+    "open": "Ouvrir le menu",
+    "close": "Fermer le menu"
+  },
+  "resume": {
+    "text": "Télécharger CV",
+    "link": "https://drive.google.com/file/d/1Fl8LUaEdE4cswJFNXQyXB18iPcKqbt-k/view?usp=sharing"
+  }
+}
