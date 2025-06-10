@@ -51,7 +51,7 @@ export const ProjectsSection = () => {
             description: t('projects.portfolio'),
             image: "/projects/portfolio.png",
             tags: ["React", "Vite", "Tailwind CSS"],
-            Url: "https://github.com/ekiholic/MixMaster-Hench-Droprate-Calculator"
+            Url: "https://github.com/ekiholic/my-portfolio"
         },
     ];
 

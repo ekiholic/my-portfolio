@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "private": true,
-  "homepage": "https://ekiholic.github.io/",
+  "homepage": "https://ekiholic.github.io/my-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
