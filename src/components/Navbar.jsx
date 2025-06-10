@@ -47,6 +47,7 @@ export const Navbar = () => {
                     </span>
                 </a>
 
+                
                 <div className="hidden md:flex space-x-8">
                     <a className="text-foreground/80 hover:text-primary transition-colors duration-300" href="#home">{t('navbar.home')}</a>
                     <a className="text-foreground/80 hover:text-primary transition-colors duration-300" href="#about">{t('navbar.about')}</a>
@@ -62,9 +63,9 @@ export const Navbar = () => {
                     className="md:hidden p-2 text-foreground z-50"
                     aria-label={isMenuOpen ? t('menu.close') : t('menu.open') }>
                     { isMenuOpen ? <X  size={24}/> : <Menu size={24}/>}
-                    </button>
+                </button>
 
-                <div className={cn("fixed inset-0 bg-background/95 backdroup-blur-md z-40 flex flex-col items-center justify-center",
+                <div className={cn("fixed inset-0 h-screen bg-background/95 backdroup-blur-md z-40 flex flex-col items-center justify-center",
                     "transition-all duration-300 md:hidden",
                     isMenuOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
                 )}>
@@ -75,6 +76,7 @@ export const Navbar = () => {
                         <a className="text-foreground/80 hover:text-primary transition-colors duration-300" href="#projects" onClick={() => setIsMenuOpen(false)}>{t('navbar.projects')}</a>
                     <button className="font-bold text-foreground" onClick={() => changeLanguage('en')}>EN</button>
                     <button className="font-bold text-foreground" onClick={() => changeLanguage('fr')}>FR</button>
+                    
                     </div>
                 </div>
 
