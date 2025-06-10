@@ -19,7 +19,7 @@ export const ProjectsSection = () => {
             description: t('projects.ellia'),
             image: "/projects/elliabot.png",
             tags: ["Python", "discord.py", "AWS"],
-            Url:"https://discord.com/oauth2/authorize?client_id=603949535764545557&permissions=8&integration_type=0&scope=bot"
+            Url:"https://github.com/ekiholic/Ellia-BOT"
         },
         {
             id: 2,
